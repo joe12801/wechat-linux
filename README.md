@@ -4,6 +4,6 @@
 
 软件可以多开，稳定挂机不掉线，不需要额外安装微信，打开即用，不报毒，轻量化，多开占用资源少
 
-仓库上的Feixunsingle.rar,可以下载登陆测试
+仓库上的Feixunsingle.rar,可以下载使用，有bug的话，请反馈给我，QQ：3122142139   交流QQ群：819338945
 
 具体的API文档请看：https://www.yuque.com/docs/share/5bdc4b51-e989-47db-83f7-0770e2cc9dae?#
